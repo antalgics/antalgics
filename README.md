@@ -1,3 +1,4 @@
+<html>
 <center>
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Frosts420)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
@@ -21,3 +22,4 @@
 </details>
 
 </center>
+</html>
