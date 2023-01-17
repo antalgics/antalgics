@@ -9,8 +9,5 @@
 ![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 <br>
 <br>
-<details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=oxzhax)
-  ----
-</details>
