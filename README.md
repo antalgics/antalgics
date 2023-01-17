@@ -11,7 +11,7 @@
 <br>
 <details>
   <summary>Github Public Stats :computer:</summary>
-<a href="https://github.com/antalgics?tab=repositories">
+<a href="https://github.com/oxzhax?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxzhax&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" />
 </a>
 <a href="https://github.com/oxzhax?tab=repositories">
