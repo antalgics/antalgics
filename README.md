@@ -1,5 +1,5 @@
 
-![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=antalgics)
+![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=oxzhax)
 <br>
 <br>
 <b>Skills: </b>
@@ -12,12 +12,12 @@
 <details>
   <summary>Github Public Stats :computer:</summary>
 <a href="https://github.com/antalgics?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antalgics&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxzhax&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" />
 </a>
-<a href="https://github.com/antalgics?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=antalgics&show_icons=true&line_height=33&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" alt="Sasha's GitHub Stats" />
+<a href="https://github.com/oxzhax?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oxzhax&show_icons=true&line_height=33&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" alt="Oxzhax's GitHub Stats" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=antalgics)
+![Profile Views](https://komarev.com/ghpvc/?username=oxzhax)
   ----
 </details>
